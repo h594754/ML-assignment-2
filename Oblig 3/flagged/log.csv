@@ -1,0 +1,4 @@
+LotFrontage,MasVnrArea,GarageYrBlt,MSSubClass,LotArea,OverallQual,OverallCond,YearBuilt,YearRemodAdd,BsmtFinSF1,BsmtFinSF2,BsmtUnfSF,TotalBsmtSF,1stFlrSF,2ndFlrSF,LowQualFinSF,GrLivArea,BsmtFullBath,BsmtHalfBath,FullBath,HalfBath,BedroomAbvGr,KitchenAbvGr,TotRmsAbvGrd,Fireplaces,GarageCars,GarageArea,WoodDeckSF,OpenPorchSF,EnclosedPorch,3SsnPorch,ScreenPorch,PoolArea,MiscVal,MoSold,YrSold,Prediction,flag,username,timestamp
+70,360,1978,53,10099,6,5,1973,1986,437,45,597,1080,1174,351,4,1530,1,0,1,0,2,1,6,0,1,504,93,46,21,3,16,3,23,6,2007,,,,2023-11-13 14:14:08.967479
+70,360,1978,53,10099,6,5,1973,1986,437,45,597,1500,1174,351,4,1530,1,0,1,0,2,1,6,0,1,504,93,46,21,3,16,3,23,6,2007,,,,2023-11-13 14:14:24.216864
+83,110,1978,53,10099,6,5,1973,1986,437,45,597,1080,1174,351,4,1530,1,0,1,0,2,1,6,0,1,504,93,46,21,3,16,3,23,6,2007,,,,2023-11-13 14:15:28.064675
